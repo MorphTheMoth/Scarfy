@@ -15,11 +15,12 @@ as i said all the sprites and animation was made by us in photoshop, here are so
 
 right attack animation
 
-![right attack animation](https://user-images.githubusercontent.com/36893247/120474291-50a75e00-c3a8-11eb-9159-97301673cfa5.gif)
+<img src="https://user-images.githubusercontent.com/36893247/120474291-50a75e00-c3a8-11eb-9159-97301673cfa5.gif" alt="right attack animation" width="100">
+
 
 down run animation
 
-![down run animation](https://user-images.githubusercontent.com/36893247/120474226-3a010700-c3a8-11eb-9472-2ff67be31800.gif)
+<img src="https://user-images.githubusercontent.com/36893247/120474226-3a010700-c3a8-11eb-9472-2ff67be31800.gif" alt="down run animation" width="100">
 
 
 **enemies**
