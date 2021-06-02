@@ -15,7 +15,7 @@ as i said all the sprites and animation was made by us in photoshop, here are so
 
 right attack animation
 
-<img src="https://user-images.githubusercontent.com/36893247/120474291-50a75e00-c3a8-11eb-9159-97301673cfa5.gif" alt="right attack animation" width="100">
+<img style="image-rendering: pixelated; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges;" src="https://user-images.githubusercontent.com/36893247/120474291-50a75e00-c3a8-11eb-9159-97301673cfa5.gif" alt="right attack animation" width="100">
 
 
 down run animation
