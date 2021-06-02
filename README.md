@@ -12,18 +12,29 @@ this room generation was made using recursive methods because i love them ;)
 as i said all the sprites and animation was made by us in photoshop, here are some examples:
 
 --player
-![right attack animation](https://i.ibb.co/WpNgxgy/image.png)
 
-![down run animation](https://i.ibb.co/RpCyFDR/image.png)
+right attack animation
+
+![right attack animation](https://user-images.githubusercontent.com/36893247/120474291-50a75e00-c3a8-11eb-9159-97301673cfa5.gif)
+
+down run animation
+
+![down run animation](https://user-images.githubusercontent.com/36893247/120474226-3a010700-c3a8-11eb-9472-2ff67be31800.gif)
 
 
 --enemies
 
-![golem activation](https://user-images.githubusercontent.com/36893247/120471164-a974f780-c3a4-11eb-883d-7cc26339b444.png)
+golem activation
 
-![boss summon attack](https://user-images.githubusercontent.com/36893247/120472728-8a776500-c3a6-11eb-8df8-0a9130643302.png)
+![golem activation](https://user-images.githubusercontent.com/36893247/120473946-dd055100-c3a7-11eb-929b-227a3617a154.gif)
 
-![ezgif-3-68a24389fdf7](https://user-images.githubusercontent.com/36893247/120473782-adeedf80-c3a7-11eb-97be-ad6cd0c60730.gif)
+boss summon attack
+
+![boss summon attack](https://user-images.githubusercontent.com/36893247/120474063-02925a80-c3a8-11eb-9c99-13e79a6f5576.gif)
+
+wizard teleport
+
+![wizard teleport](https://user-images.githubusercontent.com/36893247/120473782-adeedf80-c3a7-11eb-97be-ad6cd0c60730.gif)
 
 
 
