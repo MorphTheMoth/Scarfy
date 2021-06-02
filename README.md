@@ -23,7 +23,8 @@ as i said all the sprites and animation was made by us in photoshop, here are so
 
 ![boss summon attack](https://user-images.githubusercontent.com/36893247/120472728-8a776500-c3a6-11eb-8df8-0a9130643302.png)
 
-![image](https://user-images.githubusercontent.com/36893247/120473324-33be5b00-c3a7-11eb-986a-7ac696d728c4.png)
+![ezgif-3-68a24389fdf7](https://user-images.githubusercontent.com/36893247/120473782-adeedf80-c3a7-11eb-97be-ad6cd0c60730.gif)
+
 
 
 
