@@ -11,7 +11,7 @@ this room generation was made using recursive methods because i love them ;)
 
 as i said all the sprites and animation was made by us in photoshop, here are some examples:
 
---player
+**player**
 
 right attack animation
 
@@ -22,7 +22,7 @@ down run animation
 ![down run animation](https://user-images.githubusercontent.com/36893247/120474226-3a010700-c3a8-11eb-9472-2ff67be31800.gif)
 
 
---enemies
+**enemies**
 
 golem activation
 
@@ -40,7 +40,7 @@ wizard teleport
 
 
 
---screenshots
+**screenshots**
 
 ![random room](https://i.ibb.co/VtNZG3g/image.png)
 
