@@ -26,11 +26,11 @@ down run animation
 
 golem activation
 
-![golem activation](https://user-images.githubusercontent.com/36893247/120473946-dd055100-c3a7-11eb-929b-227a3617a154.gif)
+![golem activation](https://user-images.githubusercontent.com/36893247/120473946-dd055100-c3a7-11eb-929b-227a3617a154.gif | width=100)
 
 boss summon attack
 
-![boss summon attack](https://user-images.githubusercontent.com/36893247/120474063-02925a80-c3a8-11eb-9c99-13e79a6f5576.gif)
+![boss summon attack](https://user-images.githubusercontent.com/36893247/120474063-02925a80-c3a8-11eb-9c99-13e79a6f5576.gif | width=100)
 
 wizard teleport
 
