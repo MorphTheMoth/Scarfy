@@ -11,18 +11,9 @@ this room generation was made using recursive methods because i love them ;)
 
 as i said all the sprites and animation was made by us in photoshop, here are some examples:
 
-**player**
-
-right attack animation
-
-<img src="https://dl.dropbox.com/s/1tyz1e8q3o1th25/a.svg" alt="down run animation" width="100">
-
-
-down run animation
-
+**player running**
 
 <img src="https://user-images.githubusercontent.com/36893247/120474226-3a010700-c3a8-11eb-9472-2ff67be31800.gif" alt="down run animation" width="100">
-
 
 
 **enemies**
