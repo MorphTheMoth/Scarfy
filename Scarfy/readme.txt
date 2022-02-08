@@ -1,1 +1,1 @@
-pepsi è un brutto gioco di parole perchè contiene gli sprite
+pepsi is a bad word play, it contains the sprites of the game
