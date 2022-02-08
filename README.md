@@ -20,7 +20,7 @@ as i said all the sprites and animation was made by us in photoshop, here are so
 
 golem activation
 
-![golem activation](https://user-images.githubusercontent.com/36893247/120473946-dd055100-c3a7-11eb-929b-227a3617a154.gif | width=100)
+<img src="https://user-images.githubusercontent.com/36893247/120473946-dd055100-c3a7-11eb-929b-227a3617a154.gif" alt="golem activation" width="100">
 
 boss summon attack
 
